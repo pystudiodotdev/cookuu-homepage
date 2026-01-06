@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Home",
+    "vision": "Vision",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover a <1>Healthier</1> You with Cookuu",
+    "subtitle": "Your personal companion for a balanced lifestyle. Smart nutrition, privacy-focused tracking, and daily inspiration to fuel your life.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "vision": {
+    "title": "Our Vision",
+    "subtitle": "We believe in technology that empowers without intruding.",
+    "buildingSmart": {
+      "title": "Building Smart",
+      "description": "Intelligent algorithms that adapt to your lifestyle, providing personalized recommendations that actually matter."
+    },
+    "privacyFirst": {
+      "title": "Privacy First",
+      "description": "Your health data belongs to you. We employ state-of-the-art encryption and never sell your personal information."
+    },
+    "lifeCaused": {
+      "title": "Life - Caused",
+      "description": "Designed for real life, not a lab. We understand the ups and downs of daily routines and support you through it all."
+    }
+  },
+  "testimonials": {
+    "title": "What People Say",
+    "reviews": {
+      "1": {
+        "content": "Cookuu has completely transformed how I approach meal planning. The privacy focus is a huge plus for me.",
+        "role": "Yoga Instructor"
+      },
+      "2": {
+        "content": "Finally, an app that's smart but doesn't feel intrusive. The interface is clean and super easy to use.",
+        "role": "Software Engineer"
+      },
+      "3": {
+        "content": "I recommend this to all my clients. It promotes healthy habits without the obsession over calories.",
+        "role": "Nutritionist"
+      }
+    }
+  },
+  "footer": {
+    "description": "Inspiring healthy living through smart technology and privacy-first design. Join us on a journey to a better lifestyle.",
+    "company": "Company",
+    "connect": "Connect",
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "All rights reserved."
+  }
+}

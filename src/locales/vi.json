@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Trang chủ",
+    "vision": "Tầm nhìn",
+    "testimonials": "Đánh giá",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Khám phá bản thân <1>Khỏe mạnh hơn</1> cùng Cookuu",
+    "subtitle": "Người bạn đồng hành cá nhân cho lối sống cân bằng. Dinh dưỡng thông minh, bảo mật riêng tư và cảm hứng mỗi ngày để tiếp thêm năng lượng cho cuộc sống của bạn.",
+    "getStarted": "Bắt đầu ngay",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "vision": {
+    "title": "Tầm nhìn của chúng tôi",
+    "subtitle": "Chúng tôi tin vào công nghệ trao quyền mà không xâm phạm.",
+    "buildingSmart": {
+      "title": "Xây dựng Thông minh",
+      "description": "Các thuật toán thông minh thích ứng với lối sống của bạn, cung cấp các đề xuất cá nhân hóa thực sự quan trọng."
+    },
+    "privacyFirst": {
+      "title": "Ưu tiên Riêng tư",
+      "description": "Dữ liệu sức khỏe thuộc về bạn. Chúng tôi sử dụng mã hóa hiện đại và không bao giờ bán thông tin cá nhân của bạn."
+    },
+    "lifeCaused": {
+      "title": "Vì Cuộc sống",
+      "description": "Được thiết kế cho đời thực, không phải phòng thí nghiệm. Chúng tôi thấu hiểu những thăng trầm của thói quen hàng ngày và hỗ trợ bạn vượt qua tất cả."
+    }
+  },
+  "testimonials": {
+    "title": "Mọi người nói gì",
+    "reviews": {
+      "1": {
+        "content": "Cookuu đã hoàn toàn thay đổi cách tôi lên kế hoạch bữa ăn. Sự tập trung vào quyền riêng tư là một điểm cộng lớn đối với tôi.",
+        "role": "Giáo viên Yoga"
+      },
+      "2": {
+        "content": "Cuối cùng cũng có một ứng dụng thông minh mà không cảm thấy xâm phạm. Giao diện sạch sẽ và cực kỳ dễ sử dụng.",
+        "role": "Kỹ sư phần mềm"
+      },
+      "3": {
+        "content": "Tôi giới thiệu ứng dụng này cho tất cả khách hàng của mình. Nó thúc đẩy thói quen lành mạnh mà không bị ám ảnh bởi calo.",
+        "role": "Chuyên gia dinh dưỡng"
+      }
+    }
+  },
+  "footer": {
+    "description": "Truyền cảm hứng sống khỏe thông qua công nghệ thông minh và thiết kế ưu tiên sự riêng tư. Hãy tham gia cùng chúng tôi trên hành trình đến một lối sống tốt đẹp hơn.",
+    "company": "Công ty",
+    "connect": "Kết nối",
+    "contactUs": "Liên hệ",
+    "privacyPolicy": "Chính sách bảo mật",
+    "terms": "Điều khoản & Điều kiện",
+    "rights": "Đã đăng ký bản quyền."
+  }
+}
