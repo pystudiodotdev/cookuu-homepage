@@ -1,73 +1,26 @@
-# React + TypeScript + Vite
+# Cookuu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chào mừng bạn đến với dự án **Cookuu**! Kho lưu trữ này chứa mã nguồn cho trang chủ của Cookuu.
 
-Currently, two official plugins are available:
+## 📱 Tính năng Ứng dụng Mobile Cookuu
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Cookuu là người bạn đồng hành thông minh cho căn bếp khỏe mạnh và ngăn nắp của bạn.
 
-## React Compiler
+### Các Tính Năng Chính
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1.  **Cài đặt Cá nhân**
+    *   Cài đặt thông tin cá nhân của bạn trong trang Cài đặt.
 
-## Expanding the ESLint configuration
+2.  **Trợ lý Nấu ăn Thông minh**
+    *   Chat với Cookuu và lựa chọn các công thức nấu ăn bạn muốn.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+3.  **Danh sách Mua sắm**
+    *   Dùng trang mua sắm để lên danh sách mua sắm khi bạn đi chợ.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+4.  **Quản lý Tủ lạnh**
+    *   Các sản phẩm trong trang mua sắm có thể được đưa vào tủ lạnh để ghi nhớ và được nhắc nhở kiểm tra sau mỗi 3 ngày.
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+5.  **Quản lý Chi tiêu**
+    *   Các sản phẩm trong trang mua sắm cũng sẽ được tự động đưa vào trang Ví để bạn quản lý chi tiêu.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
